@@ -1,0 +1,21 @@
+{
+  "name": "angular-mergetext",
+  "version": "0.0.0",
+  "authors": [
+    "Aurélien Masfrand <amasfrand@jack.fr>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "grunt-contrib-copy": "~0.8.0"
+  }
+}

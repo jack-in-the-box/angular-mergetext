@@ -18,7 +18,7 @@
 				result += exportElementToHtml(diff[i]);
         	}
         	
-        	return result;
+        return result;
         };
 
         var exportElementToHtml = function(element) {
